@@ -1,0 +1,7 @@
+aleron,es un aleron
+foco delantero,es un foco delantero
+Foco trasero,este es un foco trasero
+Aleron delantero,este es un aleron delantero
+5901234123457,Galletas gamesa
+2,2
+ala,es una ala
